@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://university-range-evaluating-demanding.trycloudflare.com/vnc.html
+URL       : https://daily-trying-float-livecam.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-26 07:41:29
+Created   : 2026-07-26 11:26:21
 =======================================================
