@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://engineering-intent-belt-inclusive.trycloudflare.com/vnc.html
+URL       : https://fate-kevin-sherman-exhibition.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-31 21:14:00
+Created   : 2026-08-01 03:28:40
 =======================================================
