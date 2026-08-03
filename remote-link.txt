@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://suggestion-invited-candle-incident.trycloudflare.com/vnc.html
+URL       : https://cartoon-screensaver-choice-watched.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-02 21:03:24
+Created   : 2026-08-03 03:30:33
 =======================================================
