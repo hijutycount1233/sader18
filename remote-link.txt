@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://duties-server-elsewhere-comments.trycloudflare.com/vnc.html
+URL       : https://mozilla-canberra-gui-approved.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-13 02:25:19
+Created   : 2026-08-13 06:22:49
 =======================================================
