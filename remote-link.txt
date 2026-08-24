@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://succeed-frames-simply-northern.trycloudflare.com/vnc.html
+URL       : https://postage-villa-smile-mysimon.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-24 15:45:50
+Created   : 2026-08-24 20:38:08
 =======================================================
