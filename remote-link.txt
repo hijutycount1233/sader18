@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://census-referral-rfc-stolen.trycloudflare.com/vnc.html
+URL       : https://command-ceiling-visiting-egg.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-25 15:51:24
+Created   : 2026-08-25 20:37:13
 =======================================================
